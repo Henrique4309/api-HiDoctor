@@ -1,4 +1,56 @@
 {
   "medicoes": [],
-  "alertas": []
+  "alertas": [],
+  "users": [
+    {
+      "cpf": "12345678910",
+      "senha": "1234",
+      "tipo": "medico",
+      "nome": "Ana",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlMIpJBt0s3MomkRLTIkWUOCsACaW5AUZjTQRohNshV2VGlG-ZW957rE&s=10",
+      "id": "3RGuzsQfjTk"
+    },
+    {
+      "cpf": "12345678909",
+      "senha": "1234",
+      "tipo": "paciente",
+      "nome": "Paulo",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmmwThOWRuZOSLtM1SwAJ4XPWInxND06kd-ngOWPTiK6arf1-_mCKIE4&s=1000",
+      "informacoes": {
+        "idade": 30,
+        "peso": 80,
+        "altura": 1.75,
+        "historico": [
+          {
+            "data": "23/01/2023",
+            "descricao": "Consulta de rotina"
+          },
+          {
+            "data": "15/02/2023",
+            "descricao": "Exame de sangue"
+          }
+        ]
+      },
+      "id": "oo_ZT4G-Oz8"
+    },
+    {
+      "cpf": "12345678987",
+      "senha": "1234",
+      "tipo": "paciente",
+      "nome": "HenriqueTester",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10",
+      "informacoes": {
+        "idade": 29,
+        "peso": 98,
+        "altura": 1.82,
+        "historico": [
+          {
+            "data": "13/11/2026",
+            "descricao": "kdfgysdfghsdtfh"
+          }
+        ]
+      },
+      "id": "DL6skBOTNMM"
+    }
+  ]
 }

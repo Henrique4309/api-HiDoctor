@@ -25,7 +25,7 @@
         "idade": 33,
         "peso": 80,
         "altura": 1.8,
-        "enfermidade": "Hipertenso",
+        "enfermidade": "Hipertensão",
         "historico": [
           {
             "data": "18/11/2026",
@@ -45,7 +45,7 @@
         "idade": 40,
         "peso": 70,
         "altura": 1.7,
-        "enfermidade": "Hipertenso",
+        "enfermidade": "Hipertensão",
         "historico": []
       },
       "id": "kp4J2RB"
@@ -75,7 +75,7 @@
         "idade": 60,
         "peso": 58,
         "altura": 1.64,
-        "enfermidade": "Hipertensão",
+        "enfermidade": "Arritmia",
         "historico": []
       },
       "id": "aZ2jpuM"
@@ -90,7 +90,7 @@
         "idade": 80,
         "peso": 54,
         "altura": 1.7,
-        "enfermidade": "Hipertensão",
+        "enfermidade": "Insuficiencia Cardíaca",
         "historico": []
       },
       "id": "h36gyUK"

@@ -1,267 +1,101 @@
 {
   "users": [
     {
+      "cpf": "00000000000",
+      "senha": "0000",
+      "tipo": "admin",
+      "nome": "Administrador",
+      "id": "000admin000"
+    },
+    {
       "cpf": "12345678910",
       "senha": "1234",
       "tipo": "medico",
-      "nome": "Ana",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlMIpJBt0s3MomkRLTIkWUOCsACaW5AUZjTQRohNshV2VGlG-ZW957rE&s=10",
+      "nome": "Ana dos Santos",
+      "url": "https://img.magnific.com/fotos-premium/foto-de-perfil-de-atraente-medico-de-familia-senhora-pacientes-consulta-amigavel-sorridente-confiavel-clinica-de-virologia-bracos-cruzados-usar-casaco-de-laboratorio-branco-estetoscopio-isolado-fundo-de-cor-cinza_1108314-393227.jpg",
       "id": "3RGuzsQfjTk"
     },
     {
       "cpf": "12345678909",
       "senha": "1234",
       "tipo": "paciente",
-      "nome": "Paulo",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmmwThOWRuZOSLtM1SwAJ4XPWInxND06kd-ngOWPTiK6arf1-_mCKIE4&s=1000",
+      "nome": "Gilberto Fonseca",
+      "url": "https://topdezmelhores.com.br/wp-content/uploads/2023/10/image-112.png",
       "informacoes": {
-        "idade": 30,
+        "idade": 33,
         "peso": 80,
-        "altura": 1.75,
-        "enfermidade": "Hipertensão",
+        "altura": 1.8,
+        "enfermidade": "Hipertenso",
         "historico": [
           {
-            "data": "23/01/2023",
-            "descricao": "Consulta de rotina"
-          },
-          {
-            "data": "15/02/2023",
-            "descricao": "Exame de sangue"
+            "data": "18/11/2026",
+            "descricao": "Teve ataque cardíaco."
           }
         ]
       },
-      "id": "oo_ZT4G-Oz8"
+      "id": "jh8n7FV"
     },
     {
-      "cpf": "12345678987",
+      "cpf": "12345678908",
       "senha": "1234",
       "tipo": "paciente",
-      "nome": "HenriqueTester",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10",
+      "nome": "Marcio Quintana",
+      "url": "https://th.bing.com/th/id/OIP.OeLrQ_EDldcR40o9gp50RwHaLH?w=203&h=304&c=7&r=0&o=7&pid=1.7&rm=3",
       "informacoes": {
-        "idade": 29,
-        "peso": 98,
-        "altura": 1.82,
+        "idade": 40,
+        "peso": 70,
+        "altura": 1.7,
+        "enfermidade": "Hipertenso",
+        "historico": []
+      },
+      "id": "kp4J2RB"
+    },
+    {
+      "cpf": "12345678907",
+      "senha": "1234",
+      "tipo": "paciente",
+      "nome": "Gabriel Moreira",
+      "url": "https://img.magnific.com/fotos-premium/um-jovem-com-camisa-branca-e-gravata_871710-16161.jpg",
+      "informacoes": {
+        "idade": 22,
+        "peso": 64,
+        "altura": 1.68,
         "enfermidade": "Diabetes",
-        "historico": [
-          {
-            "data": "13/11/2026",
-            "descricao": "kdfgysdfghsdtfh"
-          }
-        ]
+        "historico": []
       },
-      "id": "DL6skBOTNMM"
+      "id": "1rHiA8q"
     },
     {
-      "cpf": "12345678980",
+      "cpf": "12345678906",
       "senha": "1234",
       "tipo": "paciente",
-      "nome": "João",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmmwThOWRuZOSLtM1SwAJ4XPWInxND06kd-ngOWPTiK6arf1-_mCKIE4&s=1000",
+      "nome": "João Vitor da Silva",
+      "url": "https://tse2.mm.bing.net/th/id/OIP.T5MeHDyH1DojwnB_QfiQ0AHaFl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
       "informacoes": {
-        "idade": 30,
-        "peso": 80,
-        "altura": 1.75,
+        "idade": 60,
+        "peso": 58,
+        "altura": 1.64,
         "enfermidade": "Hipertensão",
         "historico": []
       },
-      "id": "t7dRNDs"
+      "id": "aZ2jpuM"
     },
     {
-      "cpf": "12345678955",
+      "cpf": "12345678905",
       "senha": "1234",
       "tipo": "paciente",
-      "nome": "HenriqueTesterV2",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvq26wOg0Zi4H-gLYQKJsHN1IhEoteb3j2cn9u__ifA&s=10",
+      "nome": "Silvana Gomes",
+      "url": "https://img.magnific.com/fotos-premium/a-woman-with-white-hair-and-a-black-top_871710-10202.jpg",
       "informacoes": {
-        "idade": 29,
-        "peso": 98,
-        "altura": 1.82,
+        "idade": 80,
+        "peso": 54,
+        "altura": 1.7,
         "enfermidade": "Hipertensão",
-        "historico": [
-          {
-            "data": "13/11/2026",
-            "descricao": "kdfgysdfghsdtfh"
-          }
-        ]
+        "historico": []
       },
-      "id": "DL6skBOTNNN"
+      "id": "h36gyUK"
     }
   ],
-  "medicoes": [
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.175-03:00",
-      "id": "e2ec0bdd-71a0-4f57-939a-c819ddf17890",
-      "tipo": "frequencia_cardiaca",
-      "unidade": "bpm",
-      "usuario": "12345678987",
-      "valor": 71
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.177-03:00",
-      "id": "8ab64f11-580a-4449-9478-8eab49384eee",
-      "tipo": "frequencia_repouso",
-      "unidade": "bpm",
-      "usuario": "12345678987",
-      "valor": 64
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.178-03:00",
-      "id": "8ecbf488-4a82-4198-9363-3e22a1c2f2b2",
-      "tipo": "frequencia_respiratoria",
-      "unidade": "rpm",
-      "usuario": "12345678987",
-      "valor": 14
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.179-03:00",
-      "id": "4c5e0b14-4dfb-41c5-be96-8b855b5ae37b",
-      "tipo": "saturacao_oxigenio",
-      "unidade": "%",
-      "usuario": "12345678987",
-      "valor": 97
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.182-03:00",
-      "id": "c90d5e4f-745a-4e2d-ae7a-34793dbda93e",
-      "tipo": "variabilidade_fc",
-      "unidade": "ms",
-      "usuario": "12345678987",
-      "valor": 51
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.184-03:00",
-      "id": "ac5c01e1-d57e-4c25-a21c-bf732e0a58c0",
-      "tipo": "temperatura_corporal",
-      "unidade": "°C",
-      "usuario": "12345678987",
-      "valor": 36.6
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.186-03:00",
-      "id": "f7c1f25a-7b1e-43f9-8d74-f8024984e9f0",
-      "tipo": "glicemia",
-      "unidade": "mg/dL",
-      "usuario": "12345678987",
-      "valor": 90
-    },
-    {
-      "dataHora": "2026-11-16T17:48:04.341-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.184-03:00",
-      "id": "9bd84f97-0186-497f-b3e6-f4d252f89d53",
-      "tipo": "pressao_arterial",
-      "unidade": "mmHg",
-      "usuario": "12345678987",
-      "valor": 116,
-      "valor2": 74
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.263-03:00",
-      "id": "f9d31dfd-8beb-49db-987f-4223039cab9e",
-      "tipo": "frequencia_cardiaca",
-      "unidade": "bpm",
-      "usuario": "12345678987",
-      "valor": 70
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.265-03:00",
-      "id": "ceea08fb-7b85-4e15-8b8f-12a9ce9e78dd",
-      "tipo": "frequencia_repouso",
-      "unidade": "bpm",
-      "usuario": "12345678987",
-      "valor": 64
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.266-03:00",
-      "id": "323601ea-226a-4ac0-b91d-a1eec3fb712f",
-      "tipo": "saturacao_oxigenio",
-      "unidade": "%",
-      "usuario": "12345678987",
-      "valor": 97
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.269-03:00",
-      "id": "d2c664d2-9771-4a03-bc8b-d51e51f3d9ca",
-      "tipo": "glicemia",
-      "unidade": "mg/dL",
-      "usuario": "12345678987",
-      "valor": 92
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.266-03:00",
-      "id": "bc09d263-8f17-4b43-98d9-f12df7d3bde8",
-      "tipo": "variabilidade_fc",
-      "unidade": "ms",
-      "usuario": "12345678987",
-      "valor": 51
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.269-03:00",
-      "id": "744456d9-0a9b-4e49-8cf5-057875c868e8",
-      "tipo": "pressao_arterial",
-      "unidade": "mmHg",
-      "usuario": "12345678987",
-      "valor": 116,
-      "valor2": 75
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.271-03:00",
-      "id": "97bf70be-6de4-4d2a-a7b8-7e3a97c531fc",
-      "tipo": "temperatura_corporal",
-      "unidade": "°C",
-      "usuario": "12345678987",
-      "valor": 36.6
-    },
-    {
-      "dataHora": "2026-11-16T17:48:14.725-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.269-03:00",
-      "id": "1fac165d-9dfe-4796-84d6-42182c9c08d1",
-      "tipo": "frequencia_respiratoria",
-      "unidade": "rpm",
-      "usuario": "12345678987",
-      "valor": 14
-    },
-    {
-      "dataHora": "2026-11-16T17:48:24.759-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.298-03:00",
-      "id": "2d9da7f1-ac62-41b7-b03c-38240625b1f8",
-      "tipo": "frequencia_cardiaca",
-      "unidade": "bpm",
-      "usuario": "12345678987",
-      "valor": 69
-    },
-    {
-      "dataHora": "2026-11-16T17:48:24.759-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.299-03:00",
-      "id": "18ba7dc6-e015-4948-8185-910d5337b88d",
-      "tipo": "saturacao_oxigenio",
-      "unidade": "%",
-      "usuario": "12345678987",
-      "valor": 97
-    },
-    {
-      "dataHora": "2026-11-16T17:48:24.759-03:00",
-      "enviadoEm": "2026-11-16T17:57:50.299-03:00",
-      "id": "496d1e32-1a5c-4b32-ae1c-e56c26dade5a",
-      "tipo": "variabilidade_fc",
-      "unidade": "ms",
-      "usuario": "12345678987",
-      "valor": 54
-    }
-  ],
+  "medicoes": [],
   "alertas": []
 }
